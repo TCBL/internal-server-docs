@@ -1,0 +1,3 @@
+# Files to be constructed from common files
+**/gluu-server-*/opt/
+**/gluu-server-*/var/
